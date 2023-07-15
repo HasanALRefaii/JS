@@ -523,8 +523,7 @@ function counter ()
 counter()
 counter()
 counter()
-counter()
-counter()
+
 
 
 /*
@@ -558,3 +557,13 @@ Ex: resetCounter()
 Ex: counter()
 => 1
 */
+function resetCounter ()
+
+{ console.log(count+"and the counter reset now")
+  return count=0
+}
+resetCounter ()
+counter()
+counter()
+resetCounter ()
+counter()
