@@ -1,0 +1,50 @@
+{
+    "hasan" : {
+        "name" : "hasan" ,
+        "age"  : 25   ,
+        "major"  : "Lingustics " ,
+        "university"  : "JUST " ,
+        "image"  : "/img/image1.jpg " 
+    } ,
+    "ahmad" : {
+        "name" : "ahmad" ,
+        "age"  : 20   ,
+        "major"  : "bio " ,
+        "university"  : "Yarmouk " ,
+        "image"  : "/img/image1.jpg "
+     } ,
+
+     "ali" : {
+        "name" : "ali" ,
+        "age"  : 22   ,
+        "major"  : "math " ,
+        "university"  : "JUST " ,
+        "image"  : "/img/images.jpg " 
+     } ,
+
+     "mohammed" : {
+        "name" : "mohammed" ,
+        "age"  : 28   ,
+        "major"  : "software-eng " ,
+        "university"  : "Jadara " ,
+        "image"  : " /img/image1.jpg" 
+
+     },
+
+     "mazen" : {
+        "name" : "mazen" ,
+        "age"  : 32   ,
+        "major"  : "pharmacy " ,
+        "university"  : "JUST " ,
+        "image"  : "/img/images.jpg " 
+     } ,
+     
+     "hasann" : {
+      "name" : "hasan" ,
+      "age"  : 25   ,
+      "major"  : "Lingustics " ,
+      "university"  : "JUST " ,
+      "image"  : "/img/image1.jpg " 
+
+} 
+} 
